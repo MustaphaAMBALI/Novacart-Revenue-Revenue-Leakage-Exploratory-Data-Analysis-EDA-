@@ -126,7 +126,7 @@ These findings support **risk awareness and prioritization**, not operational re
 
 ## Dashboard Preview
 
-<img width="1340" height="1497" alt="image(1)" src="https://github.com/user-attachments/assets/36c5be6b-7d7d-49a9-9113-386472754bea" />
+<img width="1341" height="1498" alt="image(1)" src="https://github.com/user-attachments/assets/1bad30e3-bf26-448d-ad2e-b22777b038ef" />
 
 ---
 

@@ -1,4 +1,4 @@
-# Novacart-Revenue-Leakage-Exploratory-Data-Analysis-(EDA)
+# Novacart-Revenue-&-Revenue-Leakage-Exploratory-Data-Analysis-(EDA)
 
 ## Project Overview
 Novacart is a fictional subscription-based e-commerce platform offering digital products across multiple customer segments and regions.
